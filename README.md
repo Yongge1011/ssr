@@ -80,6 +80,7 @@ python ssr-python3.py
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [Free Proxies](https://proxypoolsstest.herokuapp.com/)               | 天       | ❌        | ❌        | 推荐                |
+| [freefq](https://github.com/freefq/free/)               | 天       | ❌        | ❌        | 推荐                |
 | [放牧的风](https://www.youneed.win/free-ssr)         | 天       | ❌        | ✅        | 推荐         |
 | [免费节点 Incn](https://lncn.org/)                           | 周       | ❌        | ✅        |            |
 | [Github/Alvin9999](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | 周       | ❌        | ❌        |              |
