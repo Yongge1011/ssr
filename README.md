@@ -15,3 +15,4 @@
 
 🎬频道永久订阅（翻墙导入） https://raw.githubusercontent.com/dalazhi/v2ray/main/v2ray%E8%AE%A2%E9%98%85
 
+🎬频道永久订阅 (国内导入) https://raw.fastgit.org/dalazhi/v2ray/main/v2ray%E8%AE%A2%E9%98%85
